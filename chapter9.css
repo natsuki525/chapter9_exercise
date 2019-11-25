@@ -42,5 +42,16 @@ span {
 	height: 30px;
 	margin: auto;
 	text-align: center;
-	line-height: 25px;
+	line-height: 27px;
+	font-family: Arial;
+}
+
+.title {
+	margin: 15px 10px;
+	font-family: Century Gothic;
+}
+
+p {
+	margin: 0 10px 10px 10px;
+	font-family: Arial;
 }
